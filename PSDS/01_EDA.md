@@ -3,5 +3,5 @@
 **Exploring the data:**  
 **Elements of structured data:**  
 
-The Internet of Things (IoT) and unstructured data
+The __Internet of Things (IoT)__ and unstructured data
 
