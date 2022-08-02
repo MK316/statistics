@@ -14,7 +14,7 @@ To help determine the type of visual display, data analysis, or statical model.
 e.g., **dataframe** is the specific format in R and Python.
 * Non-rectangular data: e.g., time series, spatial data, graph data structure, etc.  
 
-🔳 **Estimates of location:**   
+🔳 **Estimates of location:**   e.g., Mean, Median, Percentile (quantile), Robust, Outlier  
 finding typical value for each feature (variable) - an estimate of where most of the data is located (i.e., its central tendency).  
 
 
