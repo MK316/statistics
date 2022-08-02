@@ -17,6 +17,19 @@ e.g., **dataframe** is the specific format in R and Python.
 🔳 **Estimates of location:**   e.g., Mean, Median, Percentile (quantile), Robust, Outlier  
 finding typical value for each feature (variable) - an estimate of where most of the data is located (i.e., its central tendency).  
 
+🔳 **Estimates of variability:**  
+Location is one dimension in summarizing a feature (variable).  
+Variability (dispersion) measures whether the data values are tightly clusterred or spread out.  
+
+| Terms | Definitions |
+|---|---|
+| Deviation| |
+| Variance | |
+| SD | |
+| Range | |
+| Percentile | |
+| Interquartile range | |
+
 
 
 
