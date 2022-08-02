@@ -1,4 +1,5 @@
 # 1. Exploratory Data Analysis
+(Reference: PSDS, pp.2 ~ )
 
 🔳 **Exploring the data:**  
 
@@ -23,12 +24,12 @@ Variability (dispersion) measures whether the data values are tightly clusterred
 
 | Terms | Definitions |
 |---|---|
-| Deviation| |
-| Variance | |
-| SD | |
-| Range | |
-| Percentile | |
-| Interquartile range | |
+| Deviation| The difference between the observed values and the estimate of location |
+| Variance | The sum of squared deviation from the mean divided by n-1 where n is the number of data values |
+| SD | The square root of the variance |
+| Range | The difference between the largest and the smallest value in a data set |
+| Percentile | The value such that P percent of the values take on this value or less and (100-P) percent take on this value or more |
+| Interquartile range (IQR) | The difference between the 75th percentile and the 25th percentile |
 
 
 
