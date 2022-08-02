@@ -10,4 +10,10 @@
 For computational performance.  
 To help determine the type of visual display, data analysis, or statical model.  
 
+* Rectangular data (e.g., spreadsheet or database table): two dimensional matrix with rows indicating records (cases) and columns indicating features (variables).
+e.g., dataframe is the specific format in R and Python.
+* Non-rectangular data: e.g., time series data, spatial data structure  
+
+
+
 
